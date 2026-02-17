@@ -101,9 +101,13 @@
       "api": "https://91md.me/api.php/provide/vod",
       "name": "91麻豆"   
     },
-    "aosika": {
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "name": "奥斯卡资源"   
+    "jingpin": {
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "name": "精品资源"   
+    },
+    "naixiang": {
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "name": "奶香香"   
     }
   }
 }
